@@ -1,2 +1,2 @@
-# firmata.github.io
+# Firmata.org
 Firmata documentation
